@@ -5,19 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/susan-jong-6363762a7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@susanjnnj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=susanjong.susanjong" />
 </div>
 
----
 
 ## 👋 Hey there
 
@@ -110,6 +100,7 @@ If you have an exciting project or idea, let’s collaborate and make it happen!
 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/susan-jong-6363762a7)
 
 ✨ Made with ❤️ by <strong>Susan</strong> 
+
 
 
 
