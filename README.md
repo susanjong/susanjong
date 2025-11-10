@@ -78,13 +78,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=susanjong&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=susanjong&show_icons=true&locale=en&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=susanjong&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susanjong&show_icons=true&locale=en&layout=compact&theme=dracula" alt="susanjong" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susanjong&show_icons=true&locale=en&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susanjong&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
