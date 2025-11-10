@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me  
 
-I'm **Susan** from **Indonesia** 🇮🇩  
+I'm **Susan** from **Indonesia**   
 
 - 📚 I'm currently learning **Web Development**, **UI/UX**, **Machine Learning**, **Mobile Programming**, and more!  
 - ⚡ I love spending my free time coding and exploring new tech stacks — turning curiosity into real projects and continuous learning.
@@ -88,6 +88,20 @@ I'm **Susan** from **Indonesia** 🇮🇩
 
 ### 🎮 Contribution Animations  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/susanjong/susanjong/output/pacman-contribution-graph.svg">
+</picture>
+
+###
