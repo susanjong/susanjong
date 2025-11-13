@@ -8,9 +8,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=susanjong.susanjong" />
 </div>
 
-
-## 👋 Hey there
-
 ### 👩‍💻 About Me  
 
 I'm **Susan** from **Indonesia**   
@@ -100,9 +97,3 @@ If you have an exciting project or idea, let’s collaborate and make it happen!
 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/susan-jong-6363762a7)
 
 ✨ Made with ❤️ by <strong>Susan</strong> 
-
-
-
-
-
-
