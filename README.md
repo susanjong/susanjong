@@ -12,9 +12,6 @@
 
 I'm **Susan** from **Indonesia**   
 
-- 📚 I'm currently learning **Web Development**, **UI/UX**, **Machine Learning**, **Mobile Programming**, and more!  
-- ⚡ I love spending my free time coding and exploring new tech stacks — turning curiosity into real projects and continuous learning.
-
 ---
 
 ### 🌐 Connect with Me  
@@ -97,3 +94,4 @@ If you have an exciting project or idea, let’s collaborate and make it happen!
 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/susan-jong-6363762a7)
 
 ✨ Made with ❤️ by <strong>Susan</strong> 
+
