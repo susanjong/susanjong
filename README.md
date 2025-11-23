@@ -11,6 +11,7 @@
 ### 👩‍💻 About Me  
 
 I'm **Susan** from **Indonesia**   
+Undergraduate student in Computer Science, Universitas Sumatera Utara, Medan.
 
 ---
 
@@ -19,9 +20,6 @@ I'm **Susan** from **Indonesia**
 <p align="left">
   <a href="https://www.linkedin.com/in/susan-jong-6363762a7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@susanjnnj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
@@ -94,4 +92,5 @@ If you have an exciting project or idea, let’s collaborate and make it happen!
 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/susan-jong-6363762a7)
 
 ✨ Made with ❤️ by <strong>Susan</strong> 
+
 
